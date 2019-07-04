@@ -1,6 +1,6 @@
 {
-  "name": "express-fileuploader-qiniu",
-  "version": "0.0.2",
+  "name": "express-fileuploader-qiniu2",
+  "version": "0.0.3",
   "description": "QiniuStrategy for express-fileuploader, use this strategy to upload files to Qiniu.",
   "main": "index.js",
   "repository": {
