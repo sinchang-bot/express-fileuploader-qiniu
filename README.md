@@ -1,7 +1,7 @@
 express-fileuploader-qiniu
 ===================
 
-[![Build Status](https://travis-ci.org/sinchang-bot/express-fileuploader-qiniu.png)](https://travis-ci.org/sinchang-bot/express-fileuploader-qiniu]) [![Coverage Status](https://coveralls.io/repos/sinchang-bot/express-fileuploader-qiniu/badge.png)](https://coveralls.io/r/sinchang-bot/express-fileuploader-qiniu)  [![Dependency Status](https://gemnasium.com/sinchang-bot/express-fileuploader-qiniu.png)](https://gemnasium.com/sinchang-bot/express-fileuploader-qiniu)
+[![Build Status](https://travis-ci.org/sinchang-bot/express-fileuploader-qiniu.png)](https://travis-ci.org/sinchang-bot/express-fileuploader-qiniu) [![Coverage Status](https://coveralls.io/repos/sinchang-bot/express-fileuploader-qiniu/badge.png)](https://coveralls.io/r/sinchang-bot/express-fileuploader-qiniu)  [![Dependency Status](https://gemnasium.com/sinchang-bot/express-fileuploader-qiniu.png)](https://gemnasium.com/sinchang-bot/express-fileuploader-qiniu)
 
 `QiniuStrategy` for [express-fileuploader](https://github.com/heroicyang/express-fileuploader), use this strategy to upload files to [Qiniu](http://www.qiniu.com/).
 
